@@ -1,3 +1,6 @@
+<p class="stores-desc">
+  <strong>Disponível em breve nas lojas</strong>
+</p>
 <ul class="stores">
   <li>
     <a href="#">

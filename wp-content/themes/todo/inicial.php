@@ -177,7 +177,7 @@ get_header();
             <div class="tab-text-wrapper">
               <p>Nossos green partners são as pessoas por trás das empresas presentes no nosso aplicativo. Se você tem um negócio, se identificou com nosso propósito e acredita que o que sua empresa oferece combina com nossos green users, vem pra To Do!</p>
               <p>Temos um market place sob medida para você oferecer o delivery de seus produtos sem taxas abusivas, com logística adequada e para públicos segmentados. Você ganha novos clientes, mais pedidos e todas as vantagens de fazer parte de uma comunidade unida e engajada em fazer o bem.</p>
-              <a class="button" href="#">Seja um green partner</a>
+              <a class="button" href="<?php bloginfo('home') ?>/#fale-conosco">Seja um green partner</a>
             </div>
             <div class="tab-image-wrapper">
               <picture>
@@ -192,7 +192,7 @@ get_header();
             <div class="tab-text-wrapper">
               <p>A era do delivery e da conveniência vem com um preço alto principalmente para quem é responsável pelas entregas. A To Do chegou para repensar e ressignificar tudo isso. Nossos entregadores fazem parte do nosso green team. Isso significa que todos são registrados em CLT e recebem todos os direitos e benefícios atrelados.</p>
               <p>Fazemos questão de trabalhar com jovens em situação de vulnerabilidade, que estão entrando no mercado de trabalho. Além da oportunidade do primeiro emprego, oferecemos também mentorias e treinamentos, para que eles possam continuar se desenvolvendo pessoal e profissionalmente.</p>
-              <a class="button" href="#">Faça parte do green team</a>
+              <a class="button" href="<?php bloginfo('home') ?>/#fale-conosco">Faça parte do green team</a>
             </div>
             <div class="tab-image-wrapper">
               <picture>

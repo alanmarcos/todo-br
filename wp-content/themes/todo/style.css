@@ -230,6 +230,16 @@ h1 {
 .hero-text-wrapper {
   align-self:center;
 }
+.hero-text-wrapper p {
+  font-family: var( --font-sans );
+}
+.hero-text-wrapper p + p {
+  margin-top:1.4em;
+}
+.hero-text-wrapper .stores-desc {
+  margin-bottom:0;
+  padding-bottom: 0;
+}
 .circle-alignment {
   align-self: center;
 }
@@ -604,6 +614,9 @@ h1 {
   position: relative;
   z-index:1;
 }
+.quem-servimos .stores-desc {
+  margin-top:2em;
+}
 .tabs-links {
   display: block;
   margin:0;
@@ -806,6 +819,9 @@ footer {
   .tab-text-wrapper .button {
     display: inline-block;
   }
+  .tab-text-wrapper .stores {
+    max-width:350px;
+  }
   .tudo-isso-e-todo h5 {
     font-size: 66px;
   }
@@ -909,6 +925,11 @@ footer {
     margin-left:2em;
     width: 320px;
     align-self:center;
+  }
+  .stores-wrapper .stores-desc {
+    margin-top:0;
+    padding-top:0;
+    font-family: var( --font-sans );
   }
   .single .header-wrapper h1 {
     font-size: 52px;
