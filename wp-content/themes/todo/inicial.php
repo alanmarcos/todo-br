@@ -92,7 +92,7 @@ get_header();
       <div>
         <h4>Mercados</h4>
         <p>Acabou a granola? Faltou aquele ingrediente importante no meio da receita? Pede To Do! Temos uma seleção especial de mercados e um sistema de delivery que vai levar seu pedido até você rapidinho e com cuidado.</p>
-        <h4>Pet shots</h4>
+        <h4>Pet shops</h4>
         <p>A To Do tem pet shops porque sabe que seu pet faz parte da família e a saúde dele importa tanto quanto a sua. Nosso app é o jeito mais prático de fazer não só a sua alegria, mas a do seu amigo de quatro patas também.</p>
       </div>
     </div>
@@ -192,7 +192,7 @@ get_header();
             <div class="tab-text-wrapper">
               <p>A era do delivery e da conveniência vem com um preço alto principalmente para quem é responsável pelas entregas. A To Do chegou para repensar e ressignificar tudo isso. Nossos entregadores fazem parte do nosso green team. Isso significa que todos são registrados em CLT e recebem todos os direitos e benefícios atrelados.</p>
               <p>Fazemos questão de trabalhar com jovens em situação de vulnerabilidade, que estão entrando no mercado de trabalho. Além da oportunidade do primeiro emprego, oferecemos também mentorias e treinamentos, para que eles possam continuar se desenvolvendo pessoal e profissionalmente.</p>
-              <a class="button" href="<?php bloginfo('home') ?>/#fale-conosco">Faça parte do green team</a>
+              <a class="button" href="https://vagas.taqe.com.br/to-do" target="_blank">Faça parte do green team</a>
             </div>
             <div class="tab-image-wrapper">
               <picture>
