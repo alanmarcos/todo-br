@@ -14,17 +14,17 @@
       <div class="socials-wrapper">
         <ul>
           <li>
-            <a href="#">
+            <a href="https://www.facebook.com/todogreenbr/" target="_blank">
               <img src="<?php bloginfo('template_directory') ?>/images/icon-facebook.svg" width="41" height="41" alt="Facebook" />
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://www.instagram.com/todogreen_br/" target="_blank">
               <img src="<?php bloginfo('template_directory') ?>/images/icon-instagram.svg" width="41" height="41" alt="Instagram" />
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://www.linkedin.com/company/todogreen/" target="_blank">
               <img src="<?php bloginfo('template_directory') ?>/images/icon-linkedin.svg" width="41" height="41" alt="LinkedIn" />
             </a>
           </li>

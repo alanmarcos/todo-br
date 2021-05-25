@@ -177,12 +177,12 @@ get_header();
             <div class="tab-text-wrapper">
               <p>Nossos green partners são as pessoas por trás das empresas presentes no nosso aplicativo. Se você tem um negócio, se identificou com nosso propósito e acredita que o que sua empresa oferece combina com nossos green users, vem pra To Do!</p>
               <p>Temos um market place sob medida para você oferecer o delivery de seus produtos sem taxas abusivas, com logística adequada e para públicos segmentados. Você ganha novos clientes, mais pedidos e todas as vantagens de fazer parte de uma comunidade unida e engajada em fazer o bem.</p>
-              <a class="button" href="<?php bloginfo('home') ?>/#fale-conosco">Seja um green partner</a>
+              <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSfgFT1QspNZY1whCRTT8p8Tobd8n_4lEpuqQU88RvjQX68wAg/viewform" target="_blank">Seja um green partner</a>
             </div>
             <div class="tab-image-wrapper">
               <picture>
                   <source srcset="<?php bloginfo('template_directory'); ?>/images/green-partner.avif" type="image/avif">
-                  <img src="<?php bloginfo('template_directory'); ?>/images/green-partner.jpg" alt="Green Partnet">
+                  <img src="<?php bloginfo('template_directory'); ?>/images/green-partner.jpg" alt="Green Partner">
               </picture>
             </div>
           </div>
