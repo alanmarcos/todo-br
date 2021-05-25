@@ -232,12 +232,13 @@ h1 {
 }
 .hero-text-wrapper p {
   font-family: var( --font-sans );
+  font-weight: bold;
 }
 .hero-text-wrapper p + p {
   margin-top:1.4em;
 }
 .hero-text-wrapper .stores-desc {
-  margin-bottom:0;
+  margin-bottom:1em;
   padding-bottom: 0;
 }
 .circle-alignment {
