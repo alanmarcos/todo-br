@@ -13,7 +13,7 @@
         <?php the_title(); ?>
       </div>
       <div class="meta">
-        <time>10/03/2020</time>
+        <time><?php echo get_the_date('d/m/Y'); ?></time>
         <span>Leia Mais</span>
       </div>
     </a>
