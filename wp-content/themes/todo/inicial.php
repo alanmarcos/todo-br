@@ -193,6 +193,9 @@ get_header();
               <p>A era do delivery e da conveniência vem com um preço alto principalmente para quem é responsável pelas entregas. A To Do chegou para repensar e ressignificar tudo isso. Nossos entregadores fazem parte do nosso green team. Isso significa que todos são registrados em CLT e recebem todos os direitos e benefícios atrelados.</p>
               <p>Fazemos questão de trabalhar com jovens em situação de vulnerabilidade, que estão entrando no mercado de trabalho. Além da oportunidade do primeiro emprego, oferecemos também mentorias e treinamentos, para que eles possam continuar se desenvolvendo pessoal e profissionalmente.</p>
               <a class="button" href="https://vagas.taqe.com.br/to-do" target="_blank">Faça parte do green team</a>
+              <h3>Seja um mentor</h3>
+              <p>Você gostaria de ser um mentor voluntário de um jovem em situação de vulnerabilidade e pensar junto com ele sobre seu futuro profissional? Venha ser nosso voluntário, por meio de sessões on-line a cada 15 dias você poderá impactar a vida desse jovem. Basta se inscrever abaixo que entraremos em contato com você.</p>
+              <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSeoSJFDr8mT2pTshtlZan7Uwasmnwjv4HmP26tniu1_oivYXg/viewform" target="_blank">Quero ser um mentor</a>
             </div>
             <div class="tab-image-wrapper">
               <picture>

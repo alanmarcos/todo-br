@@ -681,6 +681,18 @@ h1 {
 .tab-text-wrapper .stores {
   max-width:420px;
 }
+.tab-text-wrapper h3 {
+  font-family: var( --font-mono );
+  font-weight: normal;
+}
+.tab-text-wrapper h3:before {
+  content:"↘";
+  display: inline-block;
+  color: var( --default-green );
+  font-size:1.2em;
+  transform: translateY(2px);
+  padding-right:.5em;
+}
 .tab-text-wrapper .button {
   background: var( --default-green );
   color: white;
@@ -979,6 +991,10 @@ footer {
   .tabs-links li {
     font-size:28px;
     text-align: center;
+  }
+  .tab-text-wrapper h3 {
+    font-size: 2em;
+    margin: .6em 0;
   }
   .tabs-links li a.is-active:before {
     height:7px;
