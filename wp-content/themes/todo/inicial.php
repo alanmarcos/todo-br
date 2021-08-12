@@ -167,7 +167,7 @@ get_header();
             <div class="tab-image-wrapper">
               <picture>
                   <source srcset="<?php bloginfo('template_directory'); ?>/images/green-user.avif" type="image/avif">
-                  <img src="<?php bloginfo('template_directory'); ?>/images/green-user.jpg" alt="Green User">
+                  <img src="<?php bloginfo('template_directory'); ?>/images/green-user.png" alt="Green User">
               </picture>
             </div>
           </div>
@@ -182,7 +182,7 @@ get_header();
             <div class="tab-image-wrapper">
               <picture>
                   <source srcset="<?php bloginfo('template_directory'); ?>/images/green-partner.avif" type="image/avif">
-                  <img src="<?php bloginfo('template_directory'); ?>/images/green-partner.jpg" alt="Green Partner">
+                  <img src="<?php bloginfo('template_directory'); ?>/images/green-partner.png" alt="Green Partner">
               </picture>
             </div>
           </div>
@@ -200,7 +200,7 @@ get_header();
             <div class="tab-image-wrapper">
               <picture>
                   <source srcset="<?php bloginfo('template_directory'); ?>/images/green-team.avif" type="image/avif">
-                  <img src="<?php bloginfo('template_directory'); ?>/images/green-team.jpg" alt="Green Team">
+                  <img src="<?php bloginfo('template_directory'); ?>/images/green-team.png" alt="Green Team">
               </picture>
             </div>
           </div>
